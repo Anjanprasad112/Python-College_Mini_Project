@@ -1,2 +1,3 @@
 # Python-College_Mini_Project
-College Admission System
+College Admission System in terminal
+
